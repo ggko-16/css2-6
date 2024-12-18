@@ -1,0 +1,339 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+main {
+    text-align: center;
+    margin: 166px 0;
+}
+
+#mainDiv {
+    background-color: #E4EBFF;
+    padding: 96px 162px;
+    display: inline-block;
+}
+
+#container {
+    background-color: #fff;
+}
+
+#topSide {
+    padding: 96px 32px;
+}
+
+#features {
+    color: #6941C6;
+    font-size: 16px;
+    font-weight: 600;
+    text-align: center;
+}
+
+#featuresH {
+    color: #181D27;
+    font-size: 40px;
+    font-weight: 600;
+    text-align: center;
+    margin-top: 12px;
+}
+
+#featuresP {
+    color: #535862;
+    font-size: 20px;
+    font-weight: 400;
+    text-align: center;
+    margin-top: 32px;
+}
+
+#twoSectionleft {
+    display: inline-block;
+    vertical-align: middle;
+    max-width: 550px;
+    text-align: start;
+    width: 100%;
+    margin: 90px 100px 90px 32px;
+}
+
+#firstImg {
+    vertical-align: middle;
+}
+
+#chat {
+    height: 48px;
+    width: 48px;
+}
+
+#share {
+    margin-top: 20px;
+}
+
+#shareH {
+    font-size: 30px;
+    font-weight: 600;
+    color: #181D27;
+}
+
+#shareP {
+    font-size: 18px;
+    font-weight: 400;
+    color: #535862;
+    margin-top: 16px;
+}
+
+#list {
+    margin-top: 32px;
+    list-style-type: none;
+    margin-left: 16px;
+}
+
+#oneimg {
+    vertical-align: middle;
+    width: 28px;
+    height: 28px;
+}
+
+#twoimg {
+    vertical-align: middle;
+    width: 28px;
+    height: 28px;
+}
+
+#threeimg {
+    vertical-align: middle;
+    width: 28px;
+    height: 28px;
+}
+
+#listone {
+    display: inline-block;
+    vertical-align: middle;
+    color: #535862;
+    font-size: 18px;
+    font-weight: 400;
+    margin-left: 8px;
+}
+
+#listtwo {
+    display: inline-block;
+    vertical-align: middle;
+    color: #535862;
+    font-size: 18px;
+    font-weight: 400;
+    margin-left: 8px;
+}
+
+#listthree {
+    display: inline-block;
+    vertical-align: middle;
+    color: #535862;
+    font-size: 18px;
+    font-weight: 400;
+    margin-left: 8px;
+}
+
+#one {
+    margin-bottom: 20px;
+}
+
+#two {
+    margin-bottom: 20px;
+}
+
+/* three */
+
+#threeSection {
+    margin-top: 96px;
+}
+
+#threeSectionright {
+    display: inline-block;
+    vertical-align: middle;
+    max-width: 550px;
+    text-align: start;
+    width: 100%;
+    margin: 90px 32px 90px 100px;
+}
+
+#threeImg {
+    vertical-align: middle;
+}
+
+#deliver {
+    margin-top: 20px;
+}
+
+#deliverH {
+    font-size: 30px;
+    font-weight: 600;
+    color: #181D27;
+}
+
+#deliverP {
+    font-size: 18px;
+    font-weight: 400;
+    color: #535862;
+}
+
+#listanswer {
+    margin-top: 32px;
+    list-style-type: none;
+    margin-left: 16px;
+}
+
+#listoneanswer {
+    display: inline-block;
+    vertical-align: middle;
+    color: #535862;
+    font-size: 18px;
+    font-weight: 400;
+    margin-left: 8px;
+}
+
+#listtwoanswer {
+    display: inline-block;
+    vertical-align: middle;
+    color: #535862;
+    font-size: 18px;
+    font-weight: 400;
+    margin-left: 8px;
+}
+
+#listthreeanswer {
+    display: inline-block;
+    vertical-align: middle;
+    color: #535862;
+    font-size: 18px;
+    font-weight: 400;
+    margin-left: 8px;
+}
+
+#oneimganswer {
+    vertical-align: middle;
+    width: 28px;
+    height: 28px;
+}
+
+#twoimganswer {
+    vertical-align: middle;
+    width: 28px;
+    height: 28px;
+}
+
+#threeimganswer {
+    vertical-align: middle;
+    width: 28px;
+    height: 28px;
+}
+
+#oneanswer {
+    margin-bottom: 20px;
+}
+
+#twoanswer {
+    margin-bottom: 20px;
+}
+
+/* end */
+
+
+/* four */
+
+#fourSection {
+    margin-top: 96px;
+    padding-bottom: 96px;
+}
+
+#fourSectionleft {
+    display: inline-block;
+    vertical-align: middle;
+    max-width: 550px;
+    text-align: start;
+    width: 100%;
+    margin: 90px 100px 90px 32px;
+}
+
+#fourImg {
+    vertical-align: middle;
+}
+
+#report {
+    height: 48px;
+    width: 48px;
+}
+
+#manage {
+    margin-top: 20px;
+}
+
+#manageH {
+    font-size: 30px;
+    font-weight: 600;
+    color: #181D27;
+}
+
+#manageP {
+    font-size: 18px;
+    font-weight: 400;
+    color: #535862;
+    margin-top: 16px;
+}
+
+#listmanage {
+    margin-top: 32px;
+    list-style-type: none;
+    margin-left: 16px;
+}
+
+#oneimgmanage {
+    vertical-align: middle;
+    width: 28px;
+    height: 28px;
+}
+
+#twoimgmanage {
+    vertical-align: middle;
+    width: 28px;
+    height: 28px;
+}
+
+#threeimgmanage {
+    vertical-align: middle;
+    width: 28px;
+    height: 28px;
+}
+
+#listonemanage {
+    display: inline-block;
+    vertical-align: middle;
+    color: #535862;
+    font-size: 18px;
+    font-weight: 400;
+    margin-left: 8px;
+}
+
+#listtwomanage {
+    display: inline-block;
+    vertical-align: middle;
+    color: #535862;
+    font-size: 18px;
+    font-weight: 400;
+    margin-left: 8px;
+}
+
+#listthreemanage {
+    display: inline-block;
+    vertical-align: middle;
+    color: #535862;
+    font-size: 18px;
+    font-weight: 400;
+    margin-left: 8px;
+}
+
+#onemanage {
+    margin-bottom: 20px;
+}
+
+#twomanage {
+    margin-bottom: 20px;
+}
